@@ -1,0 +1,28 @@
+name: decadeweb
+favicon: null
+layout_spectrum: 0.3410911872051656
+typography_spectrum: 0.7974490865599364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9293756422121078
+  lightness: 0.7075681055430323
+  saturation: 0.6581746351439506
+  rhythmicContrast: 0.046781452372670174
+purpose: []
