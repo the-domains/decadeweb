@@ -2,12 +2,13 @@ name: decadeweb
 favicon: null
 layout_spectrum: 0.3410911872051656
 typography_spectrum: 0.7974490865599364
+title: DecadeWeb
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-34308926-1
   facebook: null
   twitter: null
 opengraph:
