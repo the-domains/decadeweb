@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Shaun Quarton
-    url: 'http://www.elegantthemes.com/blog/author/shaun-quarton'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.elegantthemes.com'
-  name: Elegant Themes
-  favicon: 'http://cdn.elegantthemes.com/favicon.ico'
-  domain: www.elegantthemes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.elegantthemes.com/blog/resources/13-best-google-maps-plugins-for-wordpress'
+inLanguage: en
+starred: false
 keywords:
   - plugins
   - map
@@ -21,17 +17,23 @@ keywords:
   - custom
   - styles
 description: "If you run a business in the real, brick-and-mortar world, success hinges on customers being able to find you. Customers won't spend forever trying to work out your location for themselves - it's your responsibility to do the heavy lifting for them. I'm talking, of course, about providing them with..."
-inLanguage: en
+datePublished: '2016-04-18T13:28:39.270Z'
+dateModified: '2016-04-18T13:28:35.972Z'
+author:
+  - name: Shaun Quarton
+    url: 'http://www.elegantthemes.com/blog/author/shaun-quarton'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.elegantthemes.com/blog/resources/13-best-google-maps-plugins-for-wordpress'
 title: 13 Best Google Maps Plugins for WordPress
-datePublished: '2016-04-17T17:38:29.976Z'
-dateModified: '2016-04-17T17:37:13.039Z'
 sourcePath: _posts/2016-04-17-13-best-google-maps-plugins-for-wordpress.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Elegant Themes
+  domain: www.elegantthemes.com
+  url: 'http://www.elegantthemes.com'
+  favicon: 'http://cdn.elegantthemes.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
