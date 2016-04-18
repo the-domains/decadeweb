@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://pixelbuddha.net'
-  name: PixelBuddha
-  favicon: 'https://pixelbuddha.net/sites/all/themes/gimpo/favicon.ico'
-  domain: pixelbuddha.net
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://pixelbuddha.net/freebie/wyre-web-layout-flowcharts'
+inLanguage: en
+starred: false
 keywords:
   - sketch
   - sitemaps
@@ -18,17 +17,20 @@ keywords:
   - toolkit
   - mockups
 description: "Today's freebie is a perfect tool for sketching up sitemaps and building site mockups with ease. Wyre Dark is a set of 126 precisely crafted cards able to become an essential part of your toolkit. Get a complete pack of vector web layout cards, arrows, action tiles and badges that will help you with sketching your sitemaps."
-inLanguage: en
+datePublished: '2016-04-18T13:46:28.175Z'
+dateModified: '2016-04-18T13:46:26.685Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://pixelbuddha.net/freebie/wyre-web-layout-flowcharts'
 title: 'Wyre: Web Layout Flowcharts'
-datePublished: '2016-04-18T13:45:36.393Z'
-dateModified: '2016-04-18T13:38:46.227Z'
 sourcePath: _posts/2016-04-18-wyre-web-layout-flowcharts.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: PixelBuddha
+  domain: pixelbuddha.net
+  url: 'https://pixelbuddha.net'
+  favicon: 'https://pixelbuddha.net/sites/all/themes/gimpo/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
