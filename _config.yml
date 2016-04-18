@@ -1,7 +1,7 @@
 name: decadeweb
 favicon: null
 layout_spectrum: 0.55108
-typography_spectrum: 0.53246
+typography_spectrum: 0.52202
 title: DecadeWeb
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#260202'
-    - '#8b8b8b'
-    - '#c9c9c9'
-    - '#a70609'
-    - '#f61a1a'
-  brandStrength: 0.75
-  lightness: 0
-  saturation: 0.6875
+    - '#000000'
+    - '#b20000'
+    - '#222222'
+    - '#ffffff'
+    - '#eeeeee'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.8125
   rhythmicContrast: 1
 purpose: []
