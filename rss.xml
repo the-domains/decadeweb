@@ -4,7 +4,7 @@
         <description><![CDATA[DecadeWeb]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 13:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 13:26:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DecadeWeb / Sartoria Multimediale]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/decadeweb/d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13/index.html</link>
             <guid isPermaLink="false">d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13</guid>
             <pubDate>Tue, 19 Apr 2016 13:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logo Hotel Adriana]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d5bdf4a0473d72c16d1740051f663bd5e5f6c54.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/decadeweb/logo-hotel-adriana/index.html</link>
+            <guid isPermaLink="false">b79df474-1cec-4e56-b695-1e00bd64abe6</guid>
+            <pubDate>Tue, 19 Apr 2016 13:26:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Add Google Forms to Your WordPress Website]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.mockupworld.co/animated-mockups/</link>
             <guid isPermaLink="false">03e94c61-dfb2-4ec2-b156-a33ce6cd5a1c</guid>
             <pubDate>Mon, 18 Apr 2016 13:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30 Sans Serif Fonts Perfect for Website Headings]]></title>
-            <description><![CDATA[<article><h1>30 Sans Serif Fonts Perfect for Website Headings</h1><p>Even if your site is well-structured and elegantly designed, sometimes you just need to go a little above and beyond in order to make your headings stand out and attract the attention of your viewers. One simple solution to this issue is trying out unique fonts for your headers, thus differentiating...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f324014606ead7799605dbe19a44b4646dfcb56.png"></article>]]></description>
-            <link>http://www.elegantthemes.com/blog/resources/30-sans-serif-fonts-perfect-for-website-headings?utm_source=Elegant+Themes&amp;utm_campaign=714cb5eac3-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email&amp;utm_term=0_c886a2fc0a-714cb5eac3-49844245</link>
-            <guid isPermaLink="false">48d70729-7180-4a4a-9a5e-e2117e0f5901</guid>
-            <pubDate>Mon, 18 Apr 2016 08:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
