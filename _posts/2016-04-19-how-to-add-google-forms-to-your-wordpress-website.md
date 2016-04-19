@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Joe Fylan
-    url: 'http://www.elegantthemes.com/blog/author/joe-fylan'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.elegantthemes.com'
-  name: Elegant Themes
-  favicon: 'http://cdn.elegantthemes.com/favicon.ico'
-  domain: www.elegantthemes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.elegantthemes.com/blog/tips-tricks/how-to-add-google-forms-to-your-wordpress-website'
+inLanguage: en
+starred: false
 keywords:
   - forms
   - google
@@ -21,17 +17,23 @@ keywords:
   - submissions
   - add
 description: "If you aren't yet familiar with Google Forms, now is a good time to get acquainted with this free yet powerful service. Perhaps not as popular as their other apps, such as Docs and Sheets, Google Forms is a quick and easy way to collect information from your users via online forms. As well as being shared..."
-inLanguage: en
+datePublished: '2016-04-19T10:27:33.383Z'
+dateModified: '2016-04-19T10:27:32.459Z'
+author:
+  - name: Joe Fylan
+    url: 'http://www.elegantthemes.com/blog/author/joe-fylan'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.elegantthemes.com/blog/tips-tricks/how-to-add-google-forms-to-your-wordpress-website'
 title: How to Add Google Forms to Your WordPress Website
-datePublished: '2016-04-19T10:24:16.423Z'
-dateModified: '2016-04-19T09:56:41.329Z'
 sourcePath: _posts/2016-04-19-how-to-add-google-forms-to-your-wordpress-website.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Elegant Themes
+  domain: www.elegantthemes.com
+  url: 'http://www.elegantthemes.com'
+  favicon: 'http://cdn.elegantthemes.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
