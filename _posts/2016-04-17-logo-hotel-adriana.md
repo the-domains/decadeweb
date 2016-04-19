@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Logo realizzato per l'Hotel Adriana di Abbadia San Salvatore, grande albergo a tre stelle del paese sul Monte Amiata, in provincia di Siena. La finalità del logo è di rinnovare l'immagine dell'hotel e dare un messaggio di modernità. La nuova comunicazione multimediale è stata completata dal nuovo sito web www.hoteladrianaamiata.com sempre realizzato da DecadeWeb."
-datePublished: '2016-04-19T13:26:23.034Z'
-dateModified: '2016-04-19T13:26:08.574Z'
+datePublished: '2016-04-19T13:31:44.267Z'
+dateModified: '2016-04-19T13:31:34.924Z'
 author:
   - name: ''
     url: ''
