@@ -1,7 +1,7 @@
 name: decadeweb
 favicon: null
-layout_spectrum: 0.55108
-typography_spectrum: 0.52202
+layout_spectrum: 0.49888
+typography_spectrum: 0.63984
 title: DecadeWeb
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#222222'
     - '#ffffff'
     - '#eeeeee'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.8125
   rhythmicContrast: 1
