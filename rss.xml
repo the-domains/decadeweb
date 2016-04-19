@@ -4,7 +4,7 @@
         <description><![CDATA[DecadeWeb]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 10:24:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DecadeWeb enter the world of The Grid]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/decadeweb/d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13/index.html</link>
             <guid isPermaLink="false">d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13</guid>
             <pubDate>Sun, 17 Apr 2016 17:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Add Google Forms to Your WordPress Website]]></title>
+            <description><![CDATA[<article><h1>How to Add Google Forms to Your WordPress Website</h1><p>If you aren't yet familiar with Google Forms, now is a good time to get acquainted with this free yet powerful service. Perhaps not as popular as their other apps, such as Docs and Sheets, Google Forms is a quick and easy way to collect information from your users via online forms. As well as being shared...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77b29503dbf90c083cbf5f7c1126f93c03f3b79f.jpg"></article>]]></description>
+            <link>http://www.elegantthemes.com/blog/tips-tricks/how-to-add-google-forms-to-your-wordpress-website</link>
+            <guid isPermaLink="false">a0959237-2e91-4446-a40b-2267e34edfeb</guid>
+            <pubDate>Tue, 19 Apr 2016 10:24:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wyre: Web Layout Flowcharts]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.elegantthemes.com/blog/resources/30-sans-serif-fonts-perfect-for-website-headings?utm_source=Elegant+Themes&amp;utm_campaign=714cb5eac3-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email&amp;utm_term=0_c886a2fc0a-714cb5eac3-49844245</link>
             <guid isPermaLink="false">48d70729-7180-4a4a-9a5e-e2117e0f5901</guid>
             <pubDate>Mon, 18 Apr 2016 08:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logo Hotel Adriana]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d5bdf4a0473d72c16d1740051f663bd5e5f6c54.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decadeweb/logo-hotel-adriana/index.html</link>
-            <guid isPermaLink="false">b79df474-1cec-4e56-b695-1e00bd64abe6</guid>
-            <pubDate>Sun, 17 Apr 2016 17:26:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
