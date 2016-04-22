@@ -4,7 +4,7 @@
         <description><![CDATA[DecadeWeb]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 10:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:54:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DecadeWeb / Sartoria Multimediale]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/decadeweb/d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13/index.html</link>
             <guid isPermaLink="false">d53ed1e0-74bc-4c7b-bf3a-2cc16a827b13</guid>
             <pubDate>Tue, 19 Apr 2016 13:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Get Google Search for WordPress by Replacing Default Search]]></title>
+            <description><![CDATA[<article><h1>How to Get Google Search for WordPress by Replacing Default Search</h1><p>The default WordPress search may be fine when you are just starting out, but as your site grows you will start to see some limitations. Notably, as the amount of content on your site increases, you will realize that it doesn't always show the most relevant results - making your content harder to find for...</p><img src="http://cdn.elegantthemes.com/blog/wp-content/uploads/2016/04/Google-Custom-Search-Engine.png"></article>]]></description>
+            <link>http://www.elegantthemes.com/blog/tips-tricks/google-search-for-wordpress?utm_source=Elegant+Themes&amp;utm_campaign=e7bcee1b65-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email&amp;utm_term=0_c886a2fc0a-e7bcee1b65-49844245</link>
+            <guid isPermaLink="false">e749ea34-7cb9-4f08-9300-456a01dd8359</guid>
+            <pubDate>Fri, 22 Apr 2016 14:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Design Deck - Playing Cards for Designers - only $14! - MightyDeals]]></title>
@@ -68,13 +75,6 @@
             <link>http://graphicriver.net/item/3d-polygon-shatter-photoshop-action/15235867?ref=avatter&amp;ref=avatter&amp;clickthrough_id=690323527&amp;redirect_back=true</link>
             <guid isPermaLink="false">2f4881fe-03b5-48c6-94a1-01d5d1949aeb</guid>
             <pubDate>Mon, 18 Apr 2016 13:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 Best Google Maps Plugins for WordPress]]></title>
-            <description><![CDATA[<article><h1>13 Best Google Maps Plugins for WordPress</h1><p>If you run a business in the real, brick-and-mortar world, success hinges on customers being able to find you. Customers won't spend forever trying to work out your location for themselves - it's your responsibility to do the heavy lifting for them. I'm talking, of course, about providing them with...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8edd7e1295e473a3c3121945bad129b68d89ef0.jpg"></article>]]></description>
-            <link>http://www.elegantthemes.com/blog/resources/13-best-google-maps-plugins-for-wordpress</link>
-            <guid isPermaLink="false">461b585a-1655-4f74-852f-fe735155ecb2</guid>
-            <pubDate>Mon, 18 Apr 2016 13:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
