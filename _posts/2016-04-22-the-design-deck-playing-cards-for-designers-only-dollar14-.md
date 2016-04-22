@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.mightydeals.com'
-  name: Mightydeals
-  favicon: 'http://www.mightydeals.com/favicon.ico'
-  domain: www.mightydeals.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.mightydeals.com/deal/thedesigndeck.html?ref=ognews&refNL=bottom_signup'
+inLanguage: en
 keywords:
   - decks
   - shipping
@@ -18,18 +16,21 @@ keywords:
   - inpaint
   - ebooks
 description: Daily deals for creative professionals. Get amazing limited time offers.
-inLanguage: en
+datePublished: '2016-04-22T10:32:46.760Z'
+dateModified: '2016-04-22T10:32:44.197Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.mightydeals.com/deal/thedesigndeck.html?ref=ognews&refNL=bottom_signup'
 title: 'The Design Deck - Playing Cards for Designers - only $14! - MightyDeals'
-datePublished: '2016-04-22T10:32:02.778Z'
-dateModified: '2016-04-22T10:30:33.462Z'
-starred: false
 sourcePath: _posts/2016-04-22-the-design-deck-playing-cards-for-designers-only-dollar14-.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mightydeals
+  domain: www.mightydeals.com
+  url: 'http://www.mightydeals.com'
+  favicon: 'http://www.mightydeals.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
