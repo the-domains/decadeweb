@@ -4,7 +4,7 @@
         <description><![CDATA[DecadeWeb]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 14:31:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DecadeWeb / Sartoria Multimediale]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 Apr 2016 13:12:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum justo. Integer viverra. Maecenas neque eros, venenatis a, congue in, sodales eget, metus. Donec sit amet leo. Cras egestas lectus. Curabitur mollis convallis mauris. Cras tristique enim ac turpis. Cras auctor dui. Vivamus eros dolor, bibendum eu, porta vitae, congue a, nisl. Phasellus ut lacus. Cras dolor neque, faucibus placerat, venenatis quis, commodo sit amet, metus. Nam venenatis, lorem in commodo nonummy, nisl massa luctus sem, et ultrices mauris risus eget turpis. Curabitur quis est. Vivamus molestie posuere lectus. Sed pulvinar lectus nec pede. Morbi at diam. Duis convallis, nibh nec dapibus venenatis, felis mi posuere velit, eu rutrum nulla ipsum a nunc. Nulla facilisi. Nam volutpat arcu et quam.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1215028a-8362-4b26-b485-dd690f2f0581.jpg"></article>]]></description>
+            <link>https://thegrid.ai/decadeweb/about-us/index.html</link>
+            <guid isPermaLink="false">9c31a6d4-01a4-44a8-a6d2-d94be8f9caf2</guid>
+            <pubDate>Sun, 24 Apr 2016 14:31:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Get Google Search for WordPress by Replacing Default Search]]></title>
-            <description><![CDATA[<article><h1>How to Get Google Search for WordPress by Replacing Default Search</h1><p>The default WordPress search may be fine when you are just starting out, but as your site grows you will start to see some limitations. Notably, as the amount of content on your site increases, you will realize that it doesn't always show the most relevant results - making your content harder to find for...</p><img src="http://cdn.elegantthemes.com/blog/wp-content/uploads/2016/04/Google-Custom-Search-Engine.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Get Google Search for WordPress by Replacing Default Search</h1><p>The default WordPress search may be fine when you are just starting out, but as your site grows you will start to see some limitations. Notably, as the amount of content on your site increases, you will realize that it doesn't always show the most relevant results - making your content harder to find for...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be282b3cb0b014cc4fa1b2947783d6cd497b57bd.png"></article>]]></description>
             <link>http://www.elegantthemes.com/blog/tips-tricks/google-search-for-wordpress?utm_source=Elegant+Themes&amp;utm_campaign=e7bcee1b65-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email&amp;utm_term=0_c886a2fc0a-e7bcee1b65-49844245</link>
             <guid isPermaLink="false">e749ea34-7cb9-4f08-9300-456a01dd8359</guid>
             <pubDate>Fri, 22 Apr 2016 14:54:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.mightydeals.com/deal/filtergrade-summer-tone-bundle.html?ref=ognews&amp;refNL=bottom_signup</link>
             <guid isPermaLink="false">6d10f0c3-168e-4cef-95ae-5c90ef8db04f</guid>
             <pubDate>Mon, 18 Apr 2016 13:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Polygon Shatter Photoshop Action]]></title>
-            <description><![CDATA[<article><h1>3D Polygon Shatter Photoshop Action</h1><p>3D Shatter Polygon Dispersion How about save hours of work and get this beautiful effect in minutes? Create highly detailed design effects from your photos with no effort at all. Make sure to read the Help File PDF on how to get the most out of this effect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b23bf3c03ff37c6adbd033686429c13f38fa278.jpg"></article>]]></description>
-            <link>http://graphicriver.net/item/3d-polygon-shatter-photoshop-action/15235867?ref=avatter&amp;ref=avatter&amp;clickthrough_id=690323527&amp;redirect_back=true</link>
-            <guid isPermaLink="false">2f4881fe-03b5-48c6-94a1-01d5d1949aeb</guid>
-            <pubDate>Mon, 18 Apr 2016 13:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
