@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://store.mockupzone.com'
-  name: Mockupzone
-  favicon: 'http://store.mockupzone.com/wp-content/uploads/mockupzone_thumn.png'
-  domain: store.mockupzone.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://store.mockupzone.com/product/hand-drawn-sketch-mock-up/?mc_cid=a37a47a634&mc_eid=2474b9b9cd'
+inLanguage: en
 keywords:
   - sketched
   - paper
@@ -18,18 +16,20 @@ keywords:
   - talentless
   - watercolor
 description: 'As you can see in preview image, you can convert any design into hand sketched style and drag&drop real scanned hand sketched lines into it. And than paste it into one of 20 Mock Up Scenes. When you look at mock up scenes you can see there are many variations.'
-inLanguage: en
+datePublished: '2016-05-05T09:46:57.782Z'
+dateModified: '2016-05-05T09:46:57.316Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://store.mockupzone.com/product/hand-drawn-sketch-mock-up/?mc_cid=a37a47a634&mc_eid=2474b9b9cd'
 title: Mockup Zone - Hand Drawn Sketch Mock Up
-datePublished: '2016-05-03T15:07:43.241Z'
-dateModified: '2016-05-03T15:07:10.751Z'
-starred: false
 sourcePath: _posts/2016-05-03-mockup-zone-hand-drawn-sketch-mock-up.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mockupzone
+  domain: store.mockupzone.com
+  url: 'http://store.mockupzone.com'
+  favicon: 'http://store.mockupzone.com/wp-content/uploads/mockupzone_thumn.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
