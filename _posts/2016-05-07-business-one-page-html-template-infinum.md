@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://gt3themes.com'
-  name: Gt3themes
-  favicon: 'http://www.gt3themes.com/wp-content/themes/gt3themes/img/favicon.ico'
-  domain: gt3themes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://gt3themes.com/html/business-one-page-html-template-infinum/'
+inLanguage: en
 keywords:
   - html
   - template
@@ -18,17 +16,20 @@ keywords:
   - design
   - one-page
 description: Fully responsive minimal business one-page HTML template which is going to become an irresistible solution for those who want to make a user-friendly corporate website.
-inLanguage: en
+datePublished: '2016-05-07T16:56:23.539Z'
+dateModified: '2016-05-07T16:56:08.122Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://gt3themes.com/html/business-one-page-html-template-infinum/'
 title: Business One Page HTML Template - Infinum
-datePublished: '2016-05-07T16:55:35.299Z'
-dateModified: '2016-05-07T16:47:12.271Z'
-starred: false
 sourcePath: _posts/2016-05-07-business-one-page-html-template-infinum.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Gt3themes
+  domain: gt3themes.com
+  url: 'http://gt3themes.com'
+  favicon: 'http://www.gt3themes.com/wp-content/themes/gt3themes/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
