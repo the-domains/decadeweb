@@ -4,8 +4,15 @@
         <description><![CDATA[DecadeWeb Resources]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 22:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 10:52:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wireframe Patterns: Design at a Pro Level with Ease]]></title>
+            <description><![CDATA[<article><h1>Wireframe Patterns: Design at a Pro Level with Ease</h1><p>by anthony on 04/15/15 at 10:04 am Wireframing toolkits are a dime a dozen. But none matches the superiority of Wireframe Patterns. Other toolkits require you to put single elements together to form a complete pattern. Wireframe Patterns allows you to drag and drop entire patterns onto your canvas.</p><img src="http://uxmovement.com/wp-content/uploads/2015/04/navigation-controls.png"></article>]]></description>
+            <link>http://uxmovement.com/products/wireframe-patterns-design-at-a-pro-level-with-ease/</link>
+            <guid isPermaLink="false">8c6c02c9-7a16-46d0-9326-d49869b38c72</guid>
+            <pubDate>Mon, 23 May 2016 10:52:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hundred Million]]></title>
             <description><![CDATA[<article><h1>Hundred Million</h1><p>The Hard Work Notebook measures 130 x 207mm and is perfect for anyone beginning a project in any creative field, the internal pages feature a combined isometric and golden ratio print guide, with a section in the centre stripped back to show a white golden ratio on blue background.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f04829fef1d3b8f156d57ce01e1f9326f62b29f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.mightydeals.com/deal/thedesigndeck.html?ref=ognews&amp;refNL=bottom_signup</link>
             <guid isPermaLink="false">a11df642-6555-4d4d-9a22-fdead2b3c5d9</guid>
             <pubDate>Fri, 22 Apr 2016 10:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dropmock]]></title>
-            <description><![CDATA[<article><h1>dropmock</h1><p>Ready-Made Designs Proven to Increase Conversions & Drive Sales Mobile | iPhone | Tablet | iPad | Laptop | Macbook | Desktop | iMac</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4486431e8aa5e585b2601876055893ff7c7294d.png"></article>]]></description>
-            <link>http://sales.dropmock.com/</link>
-            <guid isPermaLink="false">2fd4c17a-b9ea-4dfb-aee9-c93323bf0a32</guid>
-            <pubDate>Fri, 22 Apr 2016 10:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
