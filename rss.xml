@@ -4,11 +4,18 @@
         <description><![CDATA[DecadeWeb Resources]]></description>
         <link>https://thegrid.ai/decadeweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 10:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 09:47:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/decadeweb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad5c1cc9-50db-48a4-95a7-794d693d9da3.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/decadeweb/about-us/index.html</link>
+            <guid isPermaLink="false">9c31a6d4-01a4-44a8-a6d2-d94be8f9caf2</guid>
+            <pubDate>Wed, 25 May 2016 09:47:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wireframe Patterns: Design at a Pro Level with Ease]]></title>
-            <description><![CDATA[<article><h1>Wireframe Patterns: Design at a Pro Level with Ease</h1><p>by anthony on 04/15/15 at 10:04 am Wireframing toolkits are a dime a dozen. But none matches the superiority of Wireframe Patterns. Other toolkits require you to put single elements together to form a complete pattern. Wireframe Patterns allows you to drag and drop entire patterns onto your canvas.</p><img src="http://uxmovement.com/wp-content/uploads/2015/04/navigation-controls.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Wireframe Patterns: Design at a Pro Level with Ease</h1><p>by anthony on 04/15/15 at 10:04 am Wireframing toolkits are a dime a dozen. But none matches the superiority of Wireframe Patterns. Other toolkits require you to put single elements together to form a complete pattern. Wireframe Patterns allows you to drag and drop entire patterns onto your canvas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b51997733c561028af42fb63f399ca18493c18a.png"></article>]]></description>
             <link>http://uxmovement.com/products/wireframe-patterns-design-at-a-pro-level-with-ease/</link>
             <guid isPermaLink="false">8c6c02c9-7a16-46d0-9326-d49869b38c72</guid>
             <pubDate>Mon, 23 May 2016 10:52:04 GMT</pubDate>
@@ -54,13 +61,6 @@
             <link>http://store.mockupzone.com/product/hand-drawn-sketch-mock-up/?mc_cid=a37a47a634&amp;mc_eid=2474b9b9cd</link>
             <guid isPermaLink="false">a84209dd-e1e6-4655-8dce-5638817eda04</guid>
             <pubDate>Thu, 05 May 2016 09:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad5c1cc9-50db-48a4-95a7-794d693d9da3.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decadeweb/about-us/index.html</link>
-            <guid isPermaLink="false">9c31a6d4-01a4-44a8-a6d2-d94be8f9caf2</guid>
-            <pubDate>Fri, 29 Apr 2016 06:36:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Get Google Search for WordPress by Replacing Default Search]]></title>
