@@ -1,7 +1,18 @@
+layout_spectrum: 0.28636981174349785
+typography_spectrum: 0.17291281069628894
+color:
+  brandColors:
+    - '#000000'
+    - '#b20000'
+    - '#222222'
+    - '#ffffff'
+    - '#eeeeee'
+  brandStrength: 0.6929237912409008
+  lightness: 0.3387376260943711
+  saturation: 0.48998767929151654
+  rhythmicContrast: 0.3420079026836902
 name: DecadeWeb Resources
 favicon: null
-layout_spectrum: 0.61819
-typography_spectrum: 0.39673
 title: DecadeWeb Resources
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#b20000'
-    - '#222222'
-    - '#ffffff'
-    - '#eeeeee'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
